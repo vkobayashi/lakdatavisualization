@@ -1,0 +1,1332 @@
+{
+	"ditems":[
+		{
+			"type": "ditem",
+			"name": "Motivation",
+			"description": "Motivation is a theoretical construct used to explain behavior. It represents the reasons for people's actions, desires, and needs.",
+			"ditem": 2,
+			"slug": "ditem-two-motivation",
+			"links": [
+				"edm2011-paper-102",
+				"edm2011-paper-69", 
+				"lak2012-paper-23", 
+				"lak2012-paper-3",
+				"edm2011-paper-107",
+				"edm2010-paper-124",
+				"lak2012-paper-28", 
+				"edm2012-paper-7", 
+				"edm2010-paper-121",
+				"lak2011-paper-50",
+				"edm2008-paper-223",
+				"edm2010-paper-117",
+				"lak2012-paper-32"
+			]
+		},
+		{
+			"type": "ditem",
+			"name": "Engagement",
+			"description": "In education, student engagement refers to the degree of attention, curiosity, interest, optimism, and passion that students show when they are learning or being taught, which extends to the level of motivation they have to learn and progress in their education",
+			"ditem": 1,
+			"slug": "ditem-one-engagement",
+			"links": [
+				"edm2011-paper-102",
+				"edm2011-paper-91",
+				"edm2010-paper-135",
+				"lak2012-paper-30",
+				"edm2008-paper-227",
+				"edm2010-paper-129",
+				"lak2012-paper-1",  
+				"lak2012-paper-34", 
+				"edm2010-paper-176",
+				"edm2012-paper-35", 
+				"edm2011-paper-61", 
+				"edm2012-paper-15", 
+				"edm2012-paper-39", 
+				"edm2010-paper-126",
+				"lak2012-paper-6", 
+				"lak2011-paper-55", 
+				"lak2012-paper-8",  
+				"lak2012-paper-37", 
+				"edm2012-paper-1",  
+				"edm2010-paper-158",
+				"edm2010-paper-128",
+				"edm2010-paper-155",
+				"edm2012-paper-46", 
+				"lak2011-paper-51", 
+				"lak2012-paper-32",
+				"edm2011-paper-77" 				
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Social Learning",
+			"description": "Social Learning that takes place at a wider scale than individual or group learning, up to a societal scale, through social interaction between peers.",
+			"ditem":4,
+			"slug":"ditem-four-social-learning",
+			"links":[
+				"edm2009-paper-197",
+				"jets12-paper-74",
+				"edm2012-paper-24", 
+				"edm2011-paper-91", 
+				"edm2011-paper-74",
+				"lak2011-paper-57",
+				"edm2008-paper-219",
+				"edm2010-paper-135",
+				"edm2012-paper-32", 
+				"lak2012-paper-30",
+				"edm2011-paper-69", 
+				"lak2011-paper-44", 
+				"edm2012-paper-2",  
+				"edm2010-paper-146",
+				"lak2012-paper-23", 
+				"edm2009-paper-203",
+				"lak2012-paper-3",  
+				"edm2011-paper-107",
+				"jets12-paper-68",
+				"lak2012-paper-1",  
+				"edm2008-paper-228",
+				"edm2012-paper-28",
+				"lak2012-paper-34", 
+				"edm2011-paper-79", 
+				"edm2010-paper-137",
+				"edm2009-paper-191",
+				"edm2010-paper-176",
+				"edm2010-paper-143",
+				"lak2012-paper-2",  
+				"lak2011-paper-46",
+				"edm2010-paper-114",
+				"edm2012-paper-5",  
+				"edm2010-paper-124",
+				"edm2010-paper-173",
+				"edm2012-paper-11",
+				"edm2010-paper-151",
+				"jets12-paper-75",
+				"edm2012-paper-35", 
+				"edm2012-paper-7", 
+				"edm2009-paper-185",
+				"lak2012-paper-5",  
+				"edm2012-paper-37", 
+				"lak2012-paper-27",
+				"edm2010-paper-162",
+				"edm2008-paper-232",
+				"edm2009-paper-184",
+				"edm2012-paper-45", 
+				"edm2008-paper-235",
+				"edm2012-paper-15", 
+				"lak2011-paper-53", 
+				"edm2012-paper-39", 
+				"edm2011-paper-56", 
+				"edm2009-paper-189",
+				"edm2008-paper-234",
+				"lak2012-paper-35", 
+				"edm2010-paper-130",
+				"edm2010-paper-140",
+				"lak2012-paper-16", 
+				"lak2011-paper-64", 
+				"edm2012-paper-23", 
+				"edm2012-paper-6",  
+				"edm2011-paper-64",
+				"edm2009-paper-188",
+				"edm2011-paper-103",
+				"edm2008-paper-215",
+				"edm2011-paper-88", 
+				"lak2012-paper-40", 
+				"edm2010-paper-149",
+				"edm2012-paper-8",  
+				"edm2011-paper-97", 
+				"lak2012-paper-42", 
+				"lak2011-paper-55", 
+				"edm2011-paper-58", 
+				"edm2008-paper-226",
+				"edm2012-paper-16", 
+				"lak2011-paper-56", 
+				"edm2012-paper-22", 
+				"lak2012-paper-21", 
+				"edm2010-paper-131",
+				"lak2011-paper-51", 
+				"edm2011-paper-81", 
+				"edm2012-paper-30",
+				"edm2011-paper-67", 
+				"lak2012-paper-32", 
+				"lak2012-paper-41"
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Assessment",
+			"description": "Learning takes place in students' heads where it is invisible to others. This means that learning must assessed through performance: what students can do with their learning.",
+			"ditem":5,
+			"slug":"ditem-five-assessment",
+			"links":[
+				"edm2010-paper-141",
+				"edm2009-paper-197",
+				"edm2012-paper-41", 
+				"edm2011-paper-91", 
+				"edm2011-paper-104",
+				"lak2011-paper-57", 
+				"edm2010-paper-135",
+				"edm2011-paper-98", 
+				"edm2008-paper-230",
+				"edm2010-paper-168",
+				"edm2011-paper-69", 
+				"edm2012-paper-3",  
+				"lak2012-paper-26", 
+				"edm2011-paper-82", 
+				"edm2012-paper-2",  
+				"edm2009-paper-177",
+				"edm2012-paper-43", 
+				"edm2010-paper-129",
+				"edm2011-paper-107",
+				"edm2008-paper-228",
+				"lak2012-paper-34", 
+				"edm2010-paper-137",
+				"edm2008-paper-236",
+				"edm2010-paper-143",
+				"edm2012-paper-11", 
+				"edm2011-paper-85", 
+				"edm2011-paper-63", 
+				"edm2011-paper-112",
+				"edm2009-paper-179",
+				"edm2009-paper-184",
+				"edm2010-paper-169",
+				"edm2009-paper-193",
+				"edm2008-paper-238",
+				"edm2012-paper-21", 
+				"edm2010-paper-153",
+				"edm2008-paper-213",
+				"edm2010-paper-147",
+				"edm2009-paper-204",
+				"edm2008-paper-229",
+				"edm2009-paper-206",
+				"edm2011-paper-94", 
+				"edm2010-paper-139",
+				"lak2012-paper-16", 
+				"edm2011-paper-89", 
+				"edm2011-paper-62", 
+				"edm2009-paper-192",
+				"edm2012-paper-6",  
+				"edm2012-paper-8", 
+				"edm2010-paper-117",
+				"edm2010-paper-163",
+				"edm2012-paper-18", 
+				"edm2008-paper-226",
+				"lak2011-paper-60",
+				"edm2011-paper-99", 
+				"edm2008-paper-209",
+				"lak2012-paper-37", 
+				"edm2012-paper-16", 
+				"edm2009-paper-194",
+				"edm2011-paper-100",
+				"edm2012-paper-22", 
+				"lak2012-paper-21", 
+				"edm2011-paper-66",
+				"edm2011-paper-105",
+				"edm2011-paper-96",
+				"edm2011-paper-77", 
+				"edm2010-paper-142",
+				"edm2008-paper-225",
+				"edm2011-paper-110"
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Recommendation",
+			"description": "Recommendation or feedback is information about how we are doing in our efforts to reach a goal",
+			"ditem":6,
+			"slug":"ditem-six-recommendation",
+			"links":[
+				"lak2012-paper-17",
+				"edm2011-paper-69", 
+				"edm2009-paper-196",
+				"edm2011-paper-68", 
+				"edm2009-paper-203",
+				"edm2010-paper-137",
+				"edm2010-paper-143",
+				"lak2011-paper-46",
+				"lak2011-paper-63", 
+				"edm2009-paper-202",
+				"edm2011-paper-61", 
+				"lak2012-paper-5",  
+				"edm2011-paper-109",
+				"edm2012-paper-10", 
+				"edm2011-paper-92", 
+				"edm2012-paper-34", 
+				"edm2008-paper-214",
+				"edm2010-paper-121",
+				"edm2012-paper-45", 
+				"edm2012-paper-20", 
+				"edm2011-paper-71", 
+				"edm2011-paper-108",
+				"edm2012-paper-39", 
+				"edm2008-paper-229",
+				"edm2011-paper-94", 
+				"edm2009-paper-189",
+				"edm2011-paper-62", 
+				"edm2012-paper-38", 
+				"lak2011-paper-47", 
+				"edm2012-paper-50", 
+				"edm2012-paper-8",  
+				"lak2011-paper-55", 
+				"lak2012-paper-13", 
+				"edm2010-paper-119",
+				"lak2012-paper-37", 
+				"edm2009-paper-194",
+				"edm2012-paper-17", 
+				"lak2011-paper-51", 
+				"edm2008-paper-217",
+				"edm2010-paper-166",
+				"lak2012-paper-20"
+			]
+		},
+		{
+			"type": "ditem",
+			"name": "Self-reflection",
+			"description": "Human self-reflection is the capacity of humans to exercise introspection and the willingness to learn more about their fundamental nature, purpose and essence.",
+			"ditem": 3,
+			"slug": "ditem-three-self-reflection",
+			"links": [
+				"edm2009-paper-197",
+				"edm2010-paper-127",
+				"edm2009-paper-199",
+				"edm2012-paper-26", 
+				"edm2012-paper-32", 
+				"edm2012-paper-19",
+				"lak2012-paper-3",  
+				"edm2011-paper-107",
+				"edm2011-paper-55", 
+				"edm2009-paper-205",
+				"edm2010-paper-137",
+				"edm2010-paper-176",
+				"edm2012-paper-11", 
+				"edm2010-paper-151",
+				"lak2012-paper-25", 
+				"edm2009-paper-207",
+				"edm2011-paper-84", 
+				"lak2012-paper-29",
+				"edm2012-paper-14", 
+				"edm2010-paper-117",
+				"edm2010-paper-163",
+				"lak2012-paper-21"
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Goal-Setting",
+			"description": "Goal setting involves the development of an action plan designated to motivate and guide a person or group toward a goal.",
+			"ditem":7,
+			"slug":"ditem-seven-goal-setting",
+			"links":[
+				"edm2012-paper-41", 
+				"edm2009-paper-201",
+				"edm2011-paper-102",
+				"edm2012-paper-24", 
+				"edm2012-paper-26", 
+				"lak2012-paper-3",  
+				"edm2011-paper-90",
+				"edm2011-paper-73"
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Awareness",
+			"description": "Awareness is the ability to perceive, to feel, or to conscious of events, objects, thoughts, emotions, or sensory patterns.",
+			"ditem":8,
+			"slug":"ditem-eight-awareness",
+			"links":[
+				"edm2011-paper-104",
+				"edm2012-paper-26", 
+				"lak2011-paper-57", 
+				"edm2010-paper-176",
+				"lak2012-paper-2", 
+				"lak2012-paper-7",  
+				"edm2010-paper-121",
+				"lak2011-paper-54", 
+				"edm2011-paper-108",
+				"edm2012-paper-12", 
+				"edm2012-paper-36", 
+				"edm2012-paper-14", 
+				"lak2012-paper-8",  
+				"lak2012-paper-37", 
+				"edm2009-paper-195",
+				"lak2012-paper-21", 
+				"lak2011-paper-51", 
+				"edm2011-paper-72", 
+				"edm2010-paper-166",
+				"edm2010-paper-142",
+				"edm2008-paper-225"
+			]
+		},
+		{
+			"type":"ditem",
+			"name":"Self-confidence",
+			"description": "The socio-psychological concept of self-confidence relates to self-assurance in one's personal judgment, ability, power, etc.",
+			"ditem":9,
+			"slug":"ditem-nine-self-confidence",
+			"links":[
+				"lak2012-paper-1", 
+				"edm2011-paper-54",
+				"edm2012-paper-11",
+				"lak2012-paper-25"
+			]
+		}
+	],
+	"lakconference": [
+		{
+			"type": "lak",
+			"name": "lak2012-paper-17",
+			"description": "Educational Monitoring Tool Based on Faceted Browsing and Data Portraits"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-57",
+			"description": "Generating Predictive Models of Learner Community Dynamics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-30",
+			"description": "Multi-mediated Community Structure in a Socio-Technical Network"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-44",
+			"description": "Social and Semantic Network Analysis of Chat Logs"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-26",
+			"description": "It's Just About Learning the Multiplication Table"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-23",
+			"description": "Exploring reflection in online communities"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-3",
+			"description": "Learn-B: A Social Analytics-enabled Tool for Self-regulated Workplace Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-1",
+			"description": "Modelling Learning & Performance: A Social Networks Perspective"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-34",
+			"description": "Learning Dispositions and Transferable Competencies: Pedagogy, Modelling and Learning Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-2",
+			"description": "Deriving Group Profiles from Social Media to Facilitate the Design of Simulated Environments for Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-46",
+			"description": "Dataset-driven Research for Improving Recommender Systems for Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-63",
+			"description": "AAT â€“ A Tool for Accessing and Analysing Students' Behaviour Data in Learning Systems*"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-28",
+			"description": "Goal-oriented visualizations of activity tracking: a case study with engineering students"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-25",
+			"description": "Investigating the Core Group Effect in Usage of Resources with Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-5",
+			"description": "Cyberlearners and Learning Resources"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-27",
+			"description": "Exploring Qualitative Analytics for E-Mentoring Relationships Building in an Online Social Learning Environment"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-7",
+			"description": "Network Awareness Tool â€“ Learning Analytics in the workplace: Detecting and Analyzing Informal Workplace Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-54",
+			"description": "Revisiting Formative Evaluation: Dynamic Monitoring for the Improvement of Learning Activity Design and Delivery"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-53",
+			"description": "A Unified Framework for Multi-Level Analysis of Distributed Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-29",
+			"description": "Applying Quantiï¬ed Self Approaches to Support Reï¬‚ective Learning"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-35",
+			"description": "Social Learning Analytics: Five Approaches"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-50",
+			"description": "Discourse-Centric Learning Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-16",
+			"description": "Seeing What the System Thinks You Know - Visualizing Evidence in an Open Learner Model"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-64",
+			"description": "Academic Analytics Landscape at the University of Phoenix"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-47",
+			"description": "Usage Contexts for Object Similarity: Exploratory Investigations"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-40",
+			"description": "The Learning Registry: Building a Foundation for Learning Resource Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-6",
+			"description": "Using agglomerative hierarchical clustering to model learner participation profiles in online discussion forums"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-42",
+			"description": "Does the Length of Time Off-Task Matter?"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-55",
+			"description": "iSpot Analysed: Participatory Learning and Reputation"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-13",
+			"description": "Course Signals at Purdue: Using Learning Analytics to Increase Student Success"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-60",
+			"description": "Towards Visual Analytics for Teachers' Dynamic Diagnostic Pedagogical DecisionMaking"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-8",
+			"description": "Monitoring Student Progress Through Their Written â€œPoint of Originalityâ€"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-37",
+			"description": "Predicting failure: A case study in co-blogging"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-56",
+			"description": "Cultural Considerations in Learning Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-21",
+			"description": "GLASS: A Learning Analytics Visualization Tool"
+		},
+		{
+			"type": "lak",
+			"name": "lak2011-paper-51",
+			"description": "SNAPP: A Bird's-Eye View of Temporal Participant Interaction"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-32",
+			"description": "The relationship between educational performance and online access routines: analysis of students' access to an online discussion forum"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-20",
+			"description": "Sherpa: Increasing Student Success with a Recommendation Engine"
+		},
+		{
+			"type": "lak",
+			"name": "lak2012-paper-41",
+			"description": "Challenges and Opportunities for Learning Analytics when formal teaching meets social spaces"
+		},
+		{
+			"type": "lak",
+			"name": "jets12-paper-74",
+			"description": "Social Learning Analytics"
+		},
+		{
+			"type": "lak",
+			"name": "jets12-paper-68",
+			"description": "Analyzing Interactions by an IIS-Map-Based Method in Face-to-Face Collaborative Learning: An Empirical Study"
+		},
+		{
+			"type": "lak",
+			"name": "jets12-paper-75",
+			"description": "A Multidimensional Analysis Tool for Visualizing Online Interactions"
+		}
+	],
+	"edmconference": [
+		{
+			"type": "edm",
+			"name": "edm2010-paper-141",
+			"description": "Assessing Reviewers' Performance Based on Mining Problem Localization in Peer-Review Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-197",
+			"description": "A User-Driven and Data-Driven Approach for Supporting Teachers in Reflection and Adaptation of Adaptive Tutorials"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-41",
+			"description": "Inferring learners' knowledge from observed actions"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-127",
+			"description": "Mining Students' Interaction Data from a System that Support Learning by Reflection"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-201",
+			"description": "Detecting Symptoms of Low Performance Using Production Rules"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-102",
+			"description": "Investigating the Transitions between Learning and Non-learning Activities as Students Learn Online"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-24",
+			"description": "Interaction Networks: Generating High Level Hints Based on Network Community Clustering"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-199",
+			"description": "Automatic Detection of Student Mental Models During Prior Knowledge Activation in MetaTutor"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-91",
+			"description": "Analyzing Participation of Students in Online Courses Using Social Network Analysis Techniques"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-104",
+			"description": "What can closed sets of students and their marks say?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-26",
+			"description": "Early Prediction of Student Self-Regulation Strategies by Combining Multiple Models"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-74",
+			"description": "Variable Construction and Causal Modeling of Online Education Messaging Data: Initial Results"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-219",
+			"description": "Using Item-type Performance Covariance to Improve the Skill Model of an Existing Tutor"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-135",
+			"description": "Using Neural Imaging and Cognitive Modeling to Infer Mental States while Using an Intelligent Tutoring System"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-98",
+			"description": "Learning Classifiers from a Relational Database of Tutor Logs"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-230",
+			"description": "Mining Data from an Automated Grading and Testing System by Adding Rich Reporting Capabilities"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-168",
+			"description": "Identifying Students' Inquiry Planning Using Machine Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-32",
+			"description": "Learning Gains for Core Concepts in a Serious Game on Scientific Reasoning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-69",
+			"description": "Towards Improvements On Domain-Independent Measurements For Collaborative Assessment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-19",
+			"description": "Interleaved Practice with Multiple Representations: Analyses with Knowledge Tracing Based Techniques"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-3",
+			"description": "Using Edit Distance to Analyse Errors in a Natural Language to Logic Translation Corpus"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-227",
+			"description": "Do Students Who See More Concepts in an ITS Learn More?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-196",
+			"description": "Dimensions of Difficulty in Translating Natural Language into First Order Logic"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-82",
+			"description": "Desperately Seeking Subscripts: Towards Automated Model Parameterization"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-2",
+			"description": "The real world significance of performance prediction"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-146",
+			"description": "Effort-based Tutoring: An Empirical Approach to Intelligent Tutoring"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-177",
+			"description": "Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-43",
+			"description": "Automated Student Model Improvement"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-68",
+			"description": "Factorization Models for Forecasting Student Performance"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-129",
+			"description": "Using Educational Data Mining Methods to Study the Impact of Virtual Classroom in E-Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-203",
+			"description": "Edu-mining for Book Recommendation for Pupils"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-107",
+			"description": "Intelligent evaluation of social knowledge building using conceptual maps with MLN"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-55",
+			"description": "Prediction of Perceived Disorientation in Online Learning Environment with Random Forest Regression"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-228",
+			"description": "An open repository and analysis tools for fine-grained, longitudinal learner data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-205",
+			"description": "Does Self-Discipline impact students' knowledge and learning?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-28",
+			"description": "Assisting Instructional Assessment of Undergraduate Collaborative Wiki and SVN Activities"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-79",
+			"description": "A Framework for Capturing Distinguishing User Interaction Behaviours in Novel Interfaces"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-54",
+			"description": "Investigating Usage of Resources in LMS with Specific Association Rules"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-137",
+			"description": "A Review of Student Churn in the Light of Theories on Business Relationships"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-191",
+			"description": "Collaborative Data Mining Tool for Education"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-176",
+			"description": "Using LiMS (the Learner Interaction Monitoring System) to Track Online Learner Engagement and Evaluate Course Design"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-236",
+			"description": "Analyzing Rule Evaluation Measures with Educational Datasets: A Framework to Help the Teacher"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-143",
+			"description": "Can We Get Better Assessment From A Tutoring System Compared to Traditional Paper Testing? Can We Have Our Cake (Better Assessment) and Eat It too (Student Learning During the Test)?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-114",
+			"description": "Analyzing Learning Styles using Behavioral Indicators in Web based Learning Environments"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-5",
+			"description": "Predicting drop-out from social behaviour of students"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-124",
+			"description": "An Annotations Approach to Peer Tutoring"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-173",
+			"description": "Higher Contributions Correlate with Higher Learning Gains"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-11",
+			"description": "Identifying Successful Learners from Interaction Behaviour"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-151",
+			"description": "Off Topic Conversation in Expert Tutoring: Waste of Time or Learning Opportunity?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-35",
+			"description": "Speaking (and touching) to learn: a method for mining the digital footprints of face-to-face collaboration"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-7",
+			"description": "Development of a Workbench to Address the Educational Data Mining Bottleneck"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-202",
+			"description": "Using Learning Decomposition and Bootstrapping with Randomization to Compare the Impact of Different Educational Interventions on Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-90",
+			"description": "Goal Orientation and Changes of Carelessness over Consecutive Trials in Science Inquiry"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-61",
+			"description": "Instructional Factors Analysis: A Cognitive Model For Multiple Instructional Interventions"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-185",
+			"description": "A Data Mining Approach to Reveal Representative Collaboration Indicators in Open Collaboration Frameworks"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-109",
+			"description": "Automatic Generation of Proof Problems in Deductive Logic"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-37",
+			"description": "Five Aspirations for Educational Data Mining"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-10",
+			"description": "Data mining techniques for design of ITS student models"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-92",
+			"description": "Using data mining in a recommender system to search for learning objects in repositories"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-85",
+			"description": "Exploring user data from a game-like math tutor: a case study in causal modeling"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-162",
+			"description": "Using a Bayesian Knowledge Base for Hint Selection on Domain Specific Problems"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-207",
+			"description": "Developing an Argument Learning Environment Using Agent-Based ITS (ALES)"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-63",
+			"description": "Mining Assessment and Teaching Evaluation Data of Regular and Advanced Stream Students"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-112",
+			"description": "Predicting graduate-level performance from undergraduate achievements"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-232",
+			"description": "Data-driven modelling of students' interactions in an ILE"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-179",
+			"description": "Using Dirichlet priors to improve model parameter plausibility"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-34",
+			"description": "The Rise of the Super Experiment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-214",
+			"description": "Argument Graph Classification via Genetic Programming and C4.5"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-184",
+			"description": "Visualization of Differences in Data Measuring Mathematical Skills"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-121",
+			"description": "Towards EDM Framework for Personalization of Information Services in RPM Systems"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-169",
+			"description": "Class Association Rule Mining from Students' Test Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-193",
+			"description": "Student Consistency and Implications for Feedback in Online Assessment Systems"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-238",
+			"description": "Adaptive Test Design with a Naive Bayes Framework"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-21",
+			"description": "The Impact on Individualizing Student Models on Necessary Practice Opportunities"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-84",
+			"description": "A Dynamical System Model of Microgenetic Changes in Performance, Efficacy, Strategy Use and Value during Vocabulary Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-45",
+			"description": "Similarity Functions for Collaborative Master Recommendations"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-235",
+			"description": "Analytic Comparison of Three Methods to Evaluate Tutorial Behaviors"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-20",
+			"description": "Identifying Students' Characteristic Learning Behaviors in an Intelligent Tutoring System Fostering Self-Regulated Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-153",
+			"description": "Data Reduction Methods Applied to Understanding Complex Learning Hypotheses"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-213",
+			"description": "Can an Intelligent Tutoring System Predict Math Proficiency as Well as a Standardized Test?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-147",
+			"description": "Multiple Test Forms Construction based on Bees Algorithm"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-71",
+			"description": "Problem Response Theory and its Application for Tutoring"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-204",
+			"description": "Obtaining Rubric Weights For Assessments By More Than One Lecturer Using A Pairwise Learning Model"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-15",
+			"description": "Analyzing the behavior of a teacher network in a Web 2.0 environment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-108",
+			"description": "Brick: Mining Pedagogically Interesting Sequential Patterns"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-39",
+			"description": "Towards Sensor-Free Affect Detection in Cognitive Tutor Algebra"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-12",
+			"description": "Using Student Modeling to Estimate Student Knowledge Retention"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-56",
+			"description": "Avoiding Problem Selection Thrashing with Conjunctive Knowledge Tracing"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-229",
+			"description": "Mining the Student Assessment Data: Lessons Drawn from a Small Scale Case Study"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-206",
+			"description": "Back to the future: a non-automated method of constructing transfer models"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-94",
+			"description": "Acquiring Item Difficulty Estimates: a Collaborative Effort of Data and Judgment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-139",
+			"description": "Using Text Replay Tagging to Produce Detectors of Systematic Experimentation Behavior Patterns"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-189",
+			"description": "Detecting and Understanding the Impact of Cognitive and Interpersonal Conflict in Computer Supported Collaborative Learning Environments"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-234",
+			"description": "The Composition Effect: Conjunctive or Compensatory? An Analysis of Multi-Skill Math Questions in ITS"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-36",
+			"description": "Learning Paths in a Non-Personalizing e-Learning Environment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-130",
+			"description": "Can order of access to learning resources predict success ?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-140",
+			"description": "AutoJoin:  Generalizing an Example into an EDM query"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-14",
+			"description": "Stress Analytics in Education"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-89",
+			"description": "Student Translations of Natural Language into Logic: The Grade Grinder Corpus Release 1.0"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-62",
+			"description": "Comparison of Traditional Assessment with Dynamic Testing in a Tutoring System"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-192",
+			"description": "Determining the Significance of Item Order In Randomized Problem Sets"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-126",
+			"description": "Data Mining for Individualised Hints in eLearning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-38",
+			"description": "From Text to Feedback: Leveraging Data Mining to Build Educational Technologies"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-23",
+			"description": "Automated Detection of Mentors and Players in an Educational Game"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-6",
+			"description": "Learner Differences in Hint Processing"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-50",
+			"description": "Deciding on Feedback Polarity and Timing"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-64",
+			"description": "Analysing frequent sequential patterns of collaborative learning activity around an interactive tabletop"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-188",
+			"description": "Why, What, and How to Log?  Lessons from LISTEN"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-103",
+			"description": "Estimating Prerequisite Structure From Noisy Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-223",
+			"description": "Developing a Log-based Motivation Measuring Tool"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-215",
+			"description": "Argument Mining Using Highly Structured Argument Repertoire"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-88",
+			"description": "Learning parameters for a knowledge diagnosis tool in orthopedic surgery"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-149",
+			"description": "Process Mining to Support Students' Collaborative Writing"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-73",
+			"description": "The Simple Location Heuristic is Better at Predicting Students' Changes in Error Rate Over Time Compared to the Simple Temporal Heuristic"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-8",
+			"description": "Stream Mining in Education? Dealing with Evolution"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-97",
+			"description": "Ensembling Predictions of Student Post-Test Scores for an Intelligent Tutoring System"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-117",
+			"description": "Examining Learner Control in a Structured Inquiry Cycle Using Process Mining"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-163",
+			"description": "On the Faithfulness of Simulated Student Performance Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-58",
+			"description": "Studying problem-solving strategies in the early stages of learning programming"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-18",
+			"description": "Finding Dependent Test Items: An Information Theory Based Approach"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-226",
+			"description": "Mining Student Behavior Models in Learning-by-Teaching Environments"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-99",
+			"description": "Quality Control and Data Mining Techniques Applied to Monitoring Scaled Scores"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-209",
+			"description": "Mining Free-form Spoken Responses to Tutor Prompts"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-119",
+			"description": "Pundit: Intelligent Recommender of Courses"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-195",
+			"description": "Predicting Students Drop Out: A Case Study"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-16",
+			"description": "Social Networks Analysis for Quantifying Students' Performance in Teamwork"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-1",
+			"description": "Classification via clustering for predicting final marks based on student participation in forums"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-158",
+			"description": "Automatic Rating of User-Generated Math Solutions"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-128",
+			"description": "An Analysis of the Differences in the Frequency of Students' Disengagement in Urban, Rural, and Suburban High Schools"
+		},
+		{
+			"type": "edm",
+			"name": "edm2009-paper-194",
+			"description": "Process Mining Online Assessment Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-100",
+			"description": "Automatically Detecting a Student's Preparation for Future Learning: Help Use is Key"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-22",
+			"description": "Identifying Learning Behaviors by Contextualizing Differential Sequence Mining with Action Features and Performance Evolution"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-155",
+			"description": "Mining information from tutor data to improve pedagogical content knowledge"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-66",
+			"description": "A Method for Finding Prerequisites Within a Curriculum"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-46",
+			"description": "Mining Concept Maps to Understand University Students' Learning"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-131",
+			"description": "Peer Production of Online Learning Resources: A Social Network Analysis"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-17",
+			"description": "Automated Discovery of Speech Act Categories in Educational Games"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-105",
+			"description": "Towards Modeling Forgetting and Relearning in ITS: Preliminary Analysis of ARRS Data"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-72",
+			"description": "Monitoring Learners' Proficiency: Weight Adaptation in the Elo Rating System"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-217",
+			"description": "A Preliminary Analysis of the Logged Questions that Students Ask in Introductory Computer Science"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-81",
+			"description": "Evaluating a Bayesian Student Model of Decimal Misconceptions"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-96",
+			"description": "Improving Models of Slipping, Guessing, And Moment-By-Moment Learning with Estimates of Skill Difficulty"
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-166",
+			"description": "A Case Study: Data Mining Applied to Student Enrollment"
+		},
+		{
+			"type": "edm",
+			"name": "edm2012-paper-30",
+			"description": "Model-Based Collaborative Filtering Analysis of Student Response Data: Machine-Learning Item Response Theory"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-67",
+			"description": "How to Classify Tutorial Dialogue? Comparing Feature Vectors vs. Sequences"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-77",
+			"description": "What's an Expert? Using learning analytics to identify emergent markers of expertise through automated speech, sentiment and sketch analysis."
+		},
+		{
+			"type": "edm",
+			"name": "edm2010-paper-142",
+			"description": "Data Mining of both Right and Wrong Answers from a Mathematics and a Science M-C Test given Collectively to 11,228 Students from India [1] in years 4, 6 and 8"
+		},
+		{
+			"type": "edm",
+			"name": "edm2008-paper-225",
+			"description": "Can we Predict which Groups of Questions Students will Learn from?"
+		},
+		{
+			"type": "edm",
+			"name": "edm2011-paper-110",
+			"description": "Conditions for effectively deriving a Q-Matrix from data with Non-negative Matrix Factorization"
+		}
+	]
+}	
